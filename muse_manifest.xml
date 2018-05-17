@@ -1,0 +1,59 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1526566449318">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="tools.css" crc="4029588951" ref="tools"/>
+    <file name="community.css" crc="295868891" ref="community"/>
+    <file name="software.css" crc="166142261" ref="software"/>
+    <file name="index.css" crc="4017205285" ref="index"/>
+    <file name="news.css" crc="474583373" ref="news"/>
+    <file name="guides.css" crc="3904814454" ref="guides"/>
+    <file name="hardware.css" crc="4120870145" ref="hardware"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:software:hardware:tools:guides:community:news"/>
+    <file name="museutils.js" crc="17924269" ref="index:software:hardware:tools:guides:community:news"/>
+    <file name="whatinput.js" crc="86476730" ref="index:software:hardware:tools:guides:community:news"/>
+    <file name="museconfig.js" crc="144853533" ref="index:software:hardware:tools:guides:community:news"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:software:hardware:tools:guides:community:news"/>
+    <file name="require.js" crc="3861931657" ref="index:software:hardware:tools:guides:community:news"/>
+  </folder>
+  <folder name="images">
+    <file name="3d resources.jpg" crc="4137117488" seo="true" ref="index:software:hardware:tools:guides:community:news">
+      <caption webpage="tools" alt=""/>
+      <caption webpage="guides" alt=""/>
+      <caption webpage="hardware" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="community" alt=""/>
+      <caption webpage="software" alt=""/>
+    </file>
+    <file name="bg-main.jpg" crc="132762756" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-01.jpg" crc="373441793" seo="true" ref="software">
+      <caption webpage="software" alt=""/>
+    </file>
+    <file name="bg-02.jpg" crc="3787287088" seo="true" ref="hardware">
+      <caption webpage="hardware" alt=""/>
+    </file>
+    <file name="bg-05.jpg" crc="499746469" seo="true" ref="tools">
+      <caption webpage="tools" alt=""/>
+    </file>
+    <file name="bg-04.jpg" crc="255668726" seo="true" ref="guides">
+      <caption webpage="guides" alt=""/>
+    </file>
+    <file name="bg-03.jpg" crc="434135027" seo="true" ref="community">
+      <caption webpage="community" alt=""/>
+    </file>
+    <file name="bg-06.jpg" crc="3985820491" seo="true" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4210227108" seo="true" mt="1526565276747" redirect="true"/>
+  <file name="software.html" crc="35503352" seo="true" mt="1526566022484" redirect="true"/>
+  <file name="hardware.html" crc="3951392714" seo="true" mt="1526566154582" redirect="true"/>
+  <file name="tools.html" crc="4119979370" seo="true" mt="1526566223441" redirect="true"/>
+  <file name="guides.html" crc="3830214849" seo="true" mt="1526566266425" redirect="true"/>
+  <file name="community.html" crc="523888579" seo="true" mt="1526566371806" redirect="true"/>
+  <file name="news.html" crc="385509529" seo="true" mt="1526566424944" redirect="true"/>
+</manifest>
