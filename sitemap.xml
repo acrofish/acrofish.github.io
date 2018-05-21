@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://index.html/index.html</loc>
-    <lastmod>2018-05-17</lastmod>
+    <lastmod>2018-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -14,19 +14,19 @@
   </url>
   <url>
     <loc>http://index.html/software.html</loc>
-    <lastmod>2018-05-17</lastmod>
+    <lastmod>2018-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://index.html/images/3d%20resources.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/bg-01.jpg</image:loc>
+      <image:loc>http://index.html/images/bg-01-crop-u2700.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://index.html/hardware.html</loc>
-    <lastmod>2018-05-17</lastmod>
+    <lastmod>2018-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -38,31 +38,7 @@
   </url>
   <url>
     <loc>http://index.html/tools.html</loc>
-    <lastmod>2018-05-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://index.html/images/3d%20resources.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/bg-05.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://index.html/guides.html</loc>
-    <lastmod>2018-05-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://index.html/images/3d%20resources.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/bg-04.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://index.html/community.html</loc>
-    <lastmod>2018-05-17</lastmod>
+    <lastmod>2018-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -73,8 +49,20 @@
     </image:image>
   </url>
   <url>
+    <loc>http://index.html/guides.html</loc>
+    <lastmod>2018-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/3d%20resources.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/bg-04-crop-u2668.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://index.html/news.html</loc>
-    <lastmod>2018-05-17</lastmod>
+    <lastmod>2018-05-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -82,6 +70,18 @@
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/bg-06.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/community.html</loc>
+    <lastmod>2018-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/3d%20resources.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/bg-05.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
