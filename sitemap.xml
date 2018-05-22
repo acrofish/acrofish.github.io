@@ -107,5 +107,8 @@
     <image:image>
       <image:loc>http://index.html/images/bg-06.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/twit.jpg</image:loc>
+    </image:image>
   </url>
 </urlset>
